@@ -1,20 +1,14 @@
-# Video-chat-v1
+# Bharat-Intern 
 
-Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
 
-![IMG](./video-chat.png)
+Welcome to the repository for my Full-Stack Intern tasks at Bharat Intern, where I'll be sharing my progress and work throughout the internship period.
 
-This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
+Internship Duration: 10 September 2023 - 10 October 2023
 
-## How to run the project?
+About:
 
-1. Clone this repository in your local system.
-2. Open the command prompt from your project directory and run the command `npm install`.
-3. Open the command prompt from your project directory and run the command `npm start`.
-4. Go to your browser and type `http://127.0.0.1:3030/` in the address bar.
-5. Hurray! That's it.
+This repository contains the tasks, projects, and progress related to my Full-Stack Internship at Bharat Intern. Here, you can find details about the projects I'll be working on, the skills I'll be learning, and my journey throughout the internship.
 
-### ToDo
+Feel free to explore the tasks and documents linked above to get a better understanding of the internship's scope and my contributions.
 
-- [ ] - Recreate the Front-end with React.
-
+LinkedIn:https://www.linkedin.com/in/bhavana-n-s-621463208/
